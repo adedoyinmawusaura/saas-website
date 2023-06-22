@@ -4,11 +4,14 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: rgb(7, 7, 63);
+}
+
 .details{
     width: 100%;
     height: 5742px;
-    background-color: rgb(7, 7, 63);
-    
+    border-radius: 10px;
 }
 
 .home-body{
@@ -36,7 +39,9 @@
     background-color: rgba(250, 224, 225, 1);
     padding: 16px 24px 16px 24px;
     border-radius: 6px;
-    margin-right: 40px;
+    margin-right: 28px;
+    font-weight: 550;
+    font-family: Plus Jakarta Sans;
 }
 
 .left{
@@ -88,12 +93,13 @@
     font-weight: 400;
     font-family: Plus Jakarta Sans;
     font-size: 25px;
-    line-height: 30px;
+    line-height: 40px;
 }
 
 .cta{
-    
+    gap: 25px;
     display: flex;
+    align-items: center;
 }
 
 .contact{
@@ -101,4 +107,19 @@
     background-color: rgba(250, 224, 225, 1);
     padding: 16px 24px 16px 24px;
     border-radius: 6px;
+    font-weight: 550;
+    font-family: Plus Jakarta Sans;
+}
+
+.book{
+    color: black;
+    font-weight: 550;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+}
+
+.role-1{
+    background-color: #ffff;
+    margin-right: 50px;
+    width: 100%;
 }
