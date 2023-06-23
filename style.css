@@ -330,9 +330,30 @@
     
 }
 
-.launch-busines{
+.launch-business{
     font-family: Plus Jakarta Sans;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 450;
-    margin: 150px;
+    padding: 15px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.saas-1{
+    padding: 30px;
+    padding-left: 45px;
+    border:2px solid black ;
+    display: flex;
+    justify-content: space-between;
+    padding: ;
+    margin-left: 130px;
+    margin-right: 130px;
+    border-radius: 5px;
+    
+}
+
+.frame-16{
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
 }
