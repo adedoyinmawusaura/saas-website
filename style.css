@@ -57,7 +57,6 @@ body{
     justify-content: space-evenly;
     gap: 40px;
     align-items: center;
-    
 }
 
 .home{
@@ -122,4 +121,80 @@ body{
     background-color: #ffff;
     margin-right: 50px;
     width: 100%;
+}
+
+.role-2{
+    background-color: #ffff;
+    padding: 15px;
+    display: flex;
+    align-items: center;  
+}
+
+.role-2-text{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-right: 30px;
+}
+
+.launch-11{
+    color:rgba(32, 28, 68, 1) ;
+    font-weight: 700;
+    font-family: Plus Jakarta Sans;
+    font-size: 75px;
+    line-height: 62px;
+}
+
+.launch-22{
+    color: rgba(19, 17, 38, 1);
+    font-weight: 400;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    line-height: 40px;   
+}
+
+.launch-33{
+    color: rgba(19, 17, 38, 1);
+    font-weight: 400;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.superuseful{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.easiest{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.super-text{
+    color: rgba(19, 17, 38, 1);
+    font-weight: 400;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    line-height: 40px;
+}
+.cta-1{}
+
+.contact-3{
+    
+}
+
+.contact-1{
+    display: flex;
+    justify-content: ;
+    align-items: center;
+    color: black;
+    background-color: rgba(250, 224, 225, 1);
+    padding: 16px 24px 16px 24px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-family: Plus Jakarta Sans;
+    width: 26%;
 }
