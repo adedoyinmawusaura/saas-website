@@ -206,9 +206,10 @@
     align-items: center;
     background-color: rgb(7, 7, 63);
     padding: 40px;
-   gap: 30px;
-   margin-left: 50px;
-   margin-right: 50px;
+    border-radius: 5px;
+    gap: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .super-easy-body{
@@ -220,4 +221,118 @@
     gap: 25px;
     margin-top: 25px;
     
+}
+
+.super-easy-text{
+    font-weight: 400;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    line-height: 40px;
+    color: antiquewhite;
+}
+
+.role-4{
+    background-color: #ffff;
+    padding-left: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.launch-44{
+    color: rgba(19, 17, 38, 1);
+    font-weight: 700;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+#full-name{
+    width: 50%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.latest{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 85px;
+    gap: 17px;
+}
+
+.latest-update{
+    color:rgba(32, 28, 68, 1) ;
+    font-weight: 700;
+    font-family: Plus Jakarta Sans;
+    font-size: 75px;
+}
+
+.whats{
+    color: rgba(19, 17, 38, 1);
+    font-weight: 400;
+    font-family: Plus Jakarta Sans;
+    font-size: 35px;
+    line-height: 40px;   
+}
+
+.frame-18{
+    display: flex;
+    gap: 55px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 100px;
+    padding: 30px;
+}
+
+.growth{
+    color: rgba(19, 17, 38, 1);
+    font-weight: 400;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    line-height: 40px;      
+}
+
+.ways{
+    color:rgba(32, 28, 68, 1) ;
+    font-weight: 600;
+    font-family: Plus Jakarta Sans;
+    font-size: 30px;
+}
+
+.frame-14{
+    display: flex;
+    margin: 30px;
+    background-color:   rgb(7, 7, 63);
+    align-items: start;
+    color: #ffff;
+    margin-left: 130px;
+    margin-right: 130px;
+    border-radius: 5px;
+}
+
+.saas{
+    padding: 30px;
+    padding-left: 45px;
+}
+
+.frame-15{
+    font-weight: 400;
+    font-family: Plus Jakarta Sans;
+    font-size: 30px;
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    
+}
+
+.launch-busines{
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    font-weight: 450;
+    margin: 150px;
 }
