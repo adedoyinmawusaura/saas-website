@@ -2,14 +2,11 @@
 	"folders": [
 		{
 			"path": "../../dashboard"
-		},
-		{
-			"path": "."
 		}
 	],
 	"settings": {
 		"liveServer.settings.port": 5501,
-		"liveServer.settings.multiRootWorkspaceName": "furniture design"
+		"liveServer.settings.multiRootWorkspaceName": "project 3"
 	},
 	"extensions": {
 		"recommendations": [
